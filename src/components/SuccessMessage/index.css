@@ -1,0 +1,10 @@
+.successmessage-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.successmessage-container h2 {
+  color: rgb(46, 46, 46);
+}

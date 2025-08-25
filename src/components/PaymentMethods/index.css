@@ -1,0 +1,28 @@
+.payment-heading {
+  font-size: 24px;
+  font-weight: bold;
+  color: rgb(46, 46, 46);
+}
+
+.payment-method-list {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.payment-method-btn {
+  background-color: white;
+  border: 1px solid #0b69ff;
+  padding: 10px 20px;
+  width: 180px;
+  cursor: pointer;
+  outline: none;
+  font-size: 18px;
+}
+
+.payment-method-btn:hover {
+  background-color: #0b69ff;
+  color: white;
+}
